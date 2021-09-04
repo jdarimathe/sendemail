@@ -1,9 +1,9 @@
 # sendemail
 1- Add the email dependency 
-  - (<dependency>
-  - <groupId>org.springframework.boot</groupId>
-  - <artifactId>spring-boot-starter-mail</artifactId>
-  - </dependency>)
+  (<dependency>
+  <groupId>org.springframework.boot</groupId>
+  <artifactId>spring-boot-starter-mail</artifactId>
+  </dependency>)
   ___________________________________________________________________
   
 2- Add this configuration in the application.properties file
