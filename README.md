@@ -4,6 +4,8 @@
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-starter-mail</artifactId>
   </dependency>
+  ___________________________________________________________________
+  
 2- Add this configuration in the application.properties file
   - spring.mail.host=smtp.gmail.com 
   - spring.mail.port=587
