@@ -1,5 +1,5 @@
 # sendemail
-1- Add the email dependency 
+1- Add the email dependency in the file pom.xml
   (<dependency>
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-starter-mail</artifactId>
