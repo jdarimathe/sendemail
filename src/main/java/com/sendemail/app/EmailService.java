@@ -19,9 +19,9 @@ public class EmailService {
 	public String sendEmail() {
 		SimpleMailMessage message = new SimpleMailMessage();
 		
-		message.setFrom("joseph.darimathe@gmail.com");
-		message.setTo("mathieuplouis@gmail.com");
-		message.setCc("juleswilfrid9@gmail.com");
+		message.setFrom("example@gmail.com");
+     		message.setTo("example@gmail.com");
+     		message.setCc("example@gmail.com");
 		message.setSubject("Test Subject My Spring Boot App");
 		message.setText("Test Body My Spring Boot App, Just trying to send a mail from my spring boot app");
 		
