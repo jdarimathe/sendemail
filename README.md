@@ -6,7 +6,7 @@
   </dependency>)
   ___________________________________________________________________
   
-2- Add this configuration in the application.properties file
+2- Add those configurations in the application.properties file
   - spring.mail.host=smtp.gmail.com 
   - spring.mail.port=587
   - spring.mail.username=
