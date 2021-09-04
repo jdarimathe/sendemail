@@ -16,9 +16,9 @@
     
 3- Autowired JavaMailSender in the service layer
    - The JavaMailSender have many methods like 
-     message.setFrom("example@gmail.com");
-     message.setTo("example@gmail.com");
-     message.setCc("example@gmail.com");
-     message.setSubject("Test Subject My Spring Boot App");
-     message.setText("Test Body My Spring Boot App, Just trying to send a mail from my spring boot app");
+     - message.setFrom("example@gmail.com");
+     - message.setTo("example@gmail.com");
+     - message.setCc("example@gmail.com");
+     - message.setSubject("Test Subject My Spring Boot App");
+     - message.setText("Test Body My Spring Boot App, Just trying to send a mail from my spring boot app");
     
